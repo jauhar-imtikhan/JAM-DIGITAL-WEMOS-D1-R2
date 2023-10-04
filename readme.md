@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://drive.google.com/file/d/1v9_Rn9RGfsfFcjU_tRvhTTwEeqbuH0cH/view alt="logo" width=500 height=500 />
+<img src="Universitas KH. A. Wahab Hasbullah Jombang.png" alt="logo" width=500 height=500 />
 
 <h1>JAM DIGITAL WEMOS D1 R2</h1>
 <p>Project membuat jam digital menggunakan wemos D1 R2 ESP8266</p>
