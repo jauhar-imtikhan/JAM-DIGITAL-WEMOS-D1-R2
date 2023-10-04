@@ -5,9 +5,6 @@
 <h1>JAM DIGITAL WEMOS D1 R2</h1>
 <p>Project membuat jam digital menggunakan wemos D1 R2 ESP8266</p>
 
-<h4> <span> · </span> <a href="https://github.com/jauhar-imtikhan/JAM-DIGITAL-WEMOS-D1-R2/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/jauhar-imtikhan/JAM-DIGITAL-WEMOS-D1-R2/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/jauhar-imtikhan/JAM-DIGITAL-WEMOS-D1-R2/issues"> Request Feature </a> </h4>
-
-
 </div>
 
 ## Instalasi
