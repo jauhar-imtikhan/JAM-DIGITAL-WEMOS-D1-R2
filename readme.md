@@ -8,7 +8,7 @@
 
 - [Download Library Wifi Manager](https://github.com/tzapu/WiFiManager)
 - [Download Library NTPClient](https://github.com/arduino-libraries/NTPClient)
-- paste kode ini di app arduino ide `
+- paste link ini di app arduino ide `
 http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
 ## License
@@ -23,9 +23,9 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 - Zuhdi
 - Ifham
 - Nadzan
-- [Jauhar](https://www.github.com/jahuar-imtikhan)
+- [Jauhar](https://www.github.com/jauhar-imtikhan)
 
-## Acknowledgements
+## Yang 
 
 - [Library NTPClient](https://github.com/arduino-libraries/NTPClient)
 - [Library Wifi Manager](https://github.com/tzapu/WiFiManager)
